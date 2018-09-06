@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed70d94-c332-4f4f-a2c3-a1672d92c2f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/main.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/util.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="482" column="63" lean-forward="true" selection-start-line="482" selection-start-column="63" selection-end-line="482" selection-end-column="63" />
+            <state relative-caret-position="695">
+              <caret line="481" column="54" selection-start-line="481" selection-start-column="54" selection-end-line="481" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -251,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="482" column="63" lean-forward="true" selection-start-line="482" selection-start-column="63" selection-end-line="482" selection-end-column="63" />
+        <state relative-caret-position="695">
+          <caret line="481" column="54" selection-start-line="481" selection-start-column="54" selection-end-line="481" selection-end-column="54" />
         </state>
       </provider>
     </entry>
