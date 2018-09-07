@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="65" selection-end-line="167" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="14" column="91" lean-forward="true" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,22 @@
         <entry file="file://$PROJECT_DIR$/assets/css/main.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="8766" lean-forward="true" selection-start-column="8766" selection-end-column="8766" />
+              <caret column="37711" lean-forward="true" selection-start-column="37711" selection-end-column="37711" />
+              <folding>
+                <element signature="e#18400#18893#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -223,16 +238,6 @@
     <entry file="file://$PROJECT_DIR$/images/banner.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" selection-end-line="158" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/util.mil.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -263,13 +268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="65" selection-end-line="167" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -277,10 +275,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="91" lean-forward="true" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="8766" lean-forward="true" selection-start-column="8766" selection-end-column="8766" />
+          <caret column="37711" lean-forward="true" selection-start-column="37711" selection-end-column="37711" />
+          <folding>
+            <element signature="e#18400#18893#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
