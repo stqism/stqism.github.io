@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed70d94-c332-4f4f-a2c3-a1672d92c2f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="100" column="137" lean-forward="true" selection-start-line="100" selection-start-column="137" selection-end-line="100" selection-end-column="137" />
+            <state relative-caret-position="465">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -29,8 +31,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="2345" column="61" selection-start-line="2345" selection-start-column="57" selection-end-line="2345" selection-end-column="61" />
+            <state relative-caret-position="366">
+              <caret line="2423" column="5" lean-forward="true" selection-start-line="2423" selection-start-column="5" selection-end-line="2423" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38090" selection-start-column="38090" selection-end-column="38090" />
+              <folding>
+                <element signature="e#18540#19033#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +99,7 @@
         <option value="$PROJECT_DIR$/assets/js/util.mil.js" />
         <option value="$PROJECT_DIR$/assets/js/main.min.js" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/css/main.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -118,6 +133,13 @@
               <item name="stqism.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stqism.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stqism.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="main.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="stqism.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -265,13 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="2345" column="61" selection-start-line="2345" selection-start-column="57" selection-end-line="2345" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/pic03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -281,10 +296,27 @@
     <entry file="file://$PROJECT_DIR$/images/pic01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="2423" column="5" lean-forward="true" selection-start-line="2423" selection-start-column="5" selection-end-line="2423" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38090" selection-start-column="38090" selection-end-column="38090" />
+          <folding>
+            <element signature="e#18540#19033#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="100" column="137" lean-forward="true" selection-start-line="100" selection-start-column="137" selection-end-line="100" selection-end-column="137" />
+        <state relative-caret-position="465">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
