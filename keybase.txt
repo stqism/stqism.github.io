@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sean
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://s4q.me
+  * I am sean (https://keybase.io/sean) on keybase.
+  * I have a public key ASB6N4UEvjTw9ija_JFXa_GmqcdNgRN4kGgN6go0HtXLXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010164181d4da82d98ffa45e3538b8449356b9ecf67c1d579dffc9fc004745e661330a",
+      "host": "keybase.io",
+      "kid": "01207a378504be34f0f628dafc91576bf1a6a9c74d81137890680dea0a341ed5cb5e0a",
+      "uid": "22333b8a06dc321f0b42f852d5fe4100",
+      "username": "sean"
+    },
+    "merkle_root": {
+      "ctime": 1536814901,
+      "hash": "27f8bebc95176209a3c06ecac4018f5f126966b3160bbeb043eb34d8f6f4ef59eb3d5036efb22be00c57df6376ba02de41c3e8cc634e003c8d4967d61cfc8cd8",
+      "hash_meta": "fa0fc7611f0721ec7723aee0b825022b054d381578baeac617644fe732922bae",
+      "seqno": 3602819
+    },
+    "service": {
+      "entropy": "MAqFP/P6mznD5x0v5yo5Xk8c",
+      "hostname": "s4q.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1536815026,
+  "expire_in": 504576000,
+  "prev": "3eb53358faa0d02da9588ee5b406c7ee49231ac46135ed66b444edb59c3cf562",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgejeFBL408PYo2vyRV2vxpqnHTYETeJBoDeoKNB7Vy14Kp3BheWxvYWTESpcCQMQgPrUzWPqg0C2pWI7ltAbH7kkjGsRhNe1mtETttZw89WLEILo5DfrmD5Nnt+8mf8qvwuO9c2M3wZPphtOYotKzk/7RAgHCo3NpZ8RAPA/DzYhe3xuuHLrz/DjenLniQvbGvjogy3opbXwuTc4lDt+jTn7A8jYEHj6jLthg4y7IwFsfezmlvJ7S103NCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINjpqKJ5Y7dWfLfM/SAHHy7Ve/1bDU94Em59rEpP6JPvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sean
+
+==================================================================
